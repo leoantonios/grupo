@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(58, 57, 55);
+}
+
+/*ESTILOS LUNA*/
+.luna{
+    background-color: rgb(238, 238, 238);
+}
+
+#luna_principal{
+    width: 250px;
+    height: 250px;
+    border: 10px solid;
+    border-radius: 135px;
+    display: block;
+    margin: 100px auto;
+    overflow: hidden;
+
+
+}
+/*ESTILOS CRATER*/
+.crater{
+
+    border: 2px solid;
+    background-color: rgb(95, 93, 93);
+}
+
+#crater1{
+    width:60px;
+    height:60px;
+    border-radius:31px;
+    margin: 10px 0px 0px 190px;
+}
+
+#crater2{
+    width:80px;
+    height:80px;
+    border-radius:41px;
+    margin: -10px 0px 0px 40px;
+}
+
+#crater3{
+    width:15px;
+    height:15px;
+    border-radius:31px;
+    margin: 10px 0px 0px 30px;
+}
+
+#crater4{
+    width:35px;
+    height:35px;
+    border-radius:31px;
+    margin: -20px 0px 0px 90px;
+}
+
+#crater5{
+    width:90px;
+    height:90px;
+    border-radius:46px;
+    margin: 10px 0px 0px 50px;
+}
+
+/*ESTILOS ESTRELLA*/
+.estrella{
+    width:10px;
+    height: 10px;
+    background: white;
+}
+
+#star1{
+    width:30px;
+    height:30px;
+    border-radius:46px;
+    margin: -400px 0px 0px 50px;
+}
+
