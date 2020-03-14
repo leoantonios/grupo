@@ -1,0 +1,140 @@
+body{
+    background-color: teal;
+}
+/* clase luna*/
+.luna{
+    background-color: rgb(206, 203, 203);
+    
+}
+
+#luna_p{
+    width: 250px;
+    height: 250px;
+    border: 10px solid;
+    border-radius: 135px;
+    display: block;
+    margin: 60px auto;
+    overflow: hidden;
+   
+
+}
+
+/* clase crater*/
+.crater{
+  width: 40px;
+  height: 40px;
+  border: 3px solid;
+  border-radius: 23px;
+  background-color: gray;
+  }
+
+#crater1{
+    width: 40px;
+    height: 40px;
+    border-radius: 28px;
+    margin: -10px 0px 0px 150px;
+}
+#crater2{
+    width: 70px;
+    height: 70px;
+    border-radius: 38px;
+    margin: 10px 200px 0px 50px;
+}
+
+#crater3{
+    width: 25px;
+    height: 25px;
+    border-radius: 28px;
+    margin: 10px 0px 0px 10px;
+}
+#crater4{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    margin: -25px 0px 30px 130px;
+}
+#crater5{
+    width: 60px;
+    height: 60px;
+    border-radius: 33px;
+    margin: 30px 0px 30px 50px;
+}
+
+
+/*clase estrellas / espacio de estrellas*/
+.estrella{
+   
+    width: 30px;
+    height: 30px;
+    border: 3px;
+    border-radius: 18px;
+    background-color: white; 
+
+}
+
+#estrella1{
+    width: 20px;
+    height: 20px;
+    border-radius: 12px;
+    margin: -350px 0px 30px 80px;
+}
+#estrella2{
+    width: 10px;
+    height: 10px;
+    border-radius: 7px;
+    margin: 100px 0px 0px 150px;
+}
+#estrella3{
+    width: 15px;
+    height: 15px;
+    border-radius: 7.5px;
+    margin: 80px 0px 0px 160px;
+}
+#estrella4{
+    width: 25px;
+    height: 25px;
+    border-radius: 14px;
+    margin: 30px 0px 30px 50px;
+}
+#estrella5{
+    width: 15px;
+    height: 15px;
+    border-radius: 7.5px;
+    margin: 30px 0px 30px 150px;
+}
+#estrella6{
+    width: 20px;
+    height: 20px;
+    border-radius: 11.5px;
+    margin: -50px 0px 30px 550px;
+}
+#estrella7{
+    width: 20px;
+    height: 20px;
+    border-radius: 11.5px;
+    margin: -10px 0px 30px 450px;
+}
+#estrella8{
+    width: 10px;
+    height: 10px;
+    border-radius: 11.5px;
+    margin: -130px 0px 30px 480px;
+}
+#estrella9{
+    width: 10px;
+    height: 10px;
+    border-radius: 11.5px;
+    margin: -130px 0px 30px 520px;
+}
+#estrella10{
+    width: 10px;
+    height: 10px;
+    border-radius: 11.5px;
+    margin: -160px 0px 30px 550px;
+}
+#estrella11{
+    width: 10px;
+    height: 10px;
+    border-radius: 11.5px;
+    margin: -50px 0px 30px 460px;
+}
